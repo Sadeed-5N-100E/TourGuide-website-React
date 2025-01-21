@@ -1,0 +1,59 @@
+first_name,last_name,email,password,phone_number,country,tour_cities,has_vehicle,tour_tags,language_spoken,bio
+Norah,Lim,norah.lim@example.com,Password101*,0198765432,Malaysia,"{Kuala Lumpur,Ipoh}",TRUE,"{city_tour,food_tour}",{Malay},Norah enjoys the bustling city life and local cuisines in Malaysian cities.
+Faizal,Kumar,faizal.kumar@example.com,Password101*,0187654321,Malaysia,"{Penang,Langkawi}",FALSE,"{beach_tour,cultural_tour}",{Tamil},Faizal loves beachside adventures and cultural festivals.
+Hani,Mohd,hani.mohd@example.com,Password101*,0176543210,Malaysia,"{Melaka,Seremban}",TRUE,"{historic_tour,shopping}",{Malay},Hani is passionate about historical sites and enjoys shopping in local markets.
+Siti,Zahara,siti.z@example.com,Password101*,0165432109,Malaysia,"{Johor Bahru,Kuching}",FALSE,"{nature_tour,art_tour}",{Malay},Siti explores natural landscapes and appreciates local art scenes.
+Ali,Bin Salleh,ali.bs@example.com,Password101*,0154321098,Malaysia,"{Terengganu,Kota Kinabalu}",TRUE,"{adventure_tour,beach_tour}",{Malay},Ali is an adventure seeker who loves exploring beaches and mountains.
+Maya,Lee,maya.lee@example.com,Password101*,0143210987,Malaysia,"{Pahang,Perlis}",FALSE,"{food_tour,museum_tour}",{Chinese},Maya enjoys discovering culinary delights and visiting museums.
+Arun,Patel,arun.patel@example.com,Password101*,0132109876,Malaysia,"{Selangor,Labuan}",TRUE,"{city_tour,historic_tour}",{Indian},Arun is fascinated by city architectures and historical narratives.
+Lina,Goh,lina.goh@example.com,Password101*,0121098765,Malaysia,"{Sabah,Sarawak}",FALSE,"{nature_tour,adventure_tour}",{Chinese},Lina seeks out thrilling adventures and natural wonders in East Malaysia.
+Kumar,Thapa,kumar.t@example.com,Password101*,0110987654,Malaysia,"{Kedah,Kelantan}",TRUE,"{historic_tour,cultural_tour}",{Nepali},Kumar enjoys exploring cultural heritages and historical sites in Malaysia.
+Jasmine,Ong,jasmine.ong@example.com,Password101*,0198765433,Malaysia,"{Penang,Kuala Lumpur}",FALSE,"{shopping,city_tour}",{Chinese},Jasmine loves urban shopping districts and city sightseeing.
+Rahim,Abdullah,rahim.a@example.com,Password101*,0187654322,Malaysia,"{Ipoh,Malacca}",TRUE,"{food_tour,museum_tour}",{Malay},Rahim is a foodie who also has a keen interest in historical museums.
+Muna,Aziz,muna.aziz@example.com,Password101*,0176543211,Malaysia,"{Johor,Sarawak}",FALSE,"{nature_tour,beach_tour}",{Malay},Muna enjoys serene beaches and lush forests in her travels.
+Vinod,Chetty,vinod.chetty@example.com,Password101*,0165432108,Malaysia,"{Selangor,Sabah}",TRUE,"{adventure_tour,cultural_tour}",{Indian},Vinod seeks adrenaline-pumping activities and cultural experiences.
+Nina,Kwan,nina.kwan@example.com,Password101*,0154321097,Malaysia,"{Kuching,Langkawi}",FALSE,"{beach_tour,food_tour}",{Chinese},Nina loves relaxing on the beach and tasting local seafood.
+Zul,Faris,zul.faris@example.com,Password101*,0143210986,Malaysia,"{Terengganu,Pahang}",TRUE,"{nature_tour,historic_tour}",{Malay},Zul is interested in the natural landscapes and history of his travel destinations.
+Leela,Krishnan,leela.krish@example.com,Password101*,0132109875,Malaysia,"{Perak,Perlis}",TRUE,"{art_tour,city_tour}",{Tamil},Leela appreciates fine arts and the vibrant city life.
+Bala,Murugan,bala.murugan@example.com,Password101*,0121098764,Malaysia,"{Ipoh,Johor Bahru}",TRUE,"{historic_tour,food_tour}",{Tamil},Bala enjoys historical explorations and local cuisines.
+Grace,Tan,grace.tan@example.com,Password101*,0110987653,Malaysia,"{Kuala Lumpur,Penang}",FALSE,"{city_tour,shopping}",{Chinese},Grace is fascinated by city landscapes and loves shopping.
+Hafiz,Hamid,hafiz.hamid@example.com,Password101*,0198765431,Malaysia,"{Melaka,Kedah}",TRUE,"{beach_tour,cultural_tour}",{Malay},Hafiz loves exploring cultural sites and relaxing at beaches.
+Alya,Nazri,alya.nazri@example.com,Password101*,0187654320,Malaysia,"{Sarawak,Selangor}",FALSE,"{nature_tour,adventure_tour}",{Malay},Alya seeks out adventures in nature and loves jungle trekking.
+Firdaus,Othman,firdaus.o@example.com,Password101*,0176543212,Malaysia,"{Perlis,Pahang}",TRUE,"{historic_tour,food_tour}",{Malay},Firdaus is passionate about local history and culinary experiences.
+Chandra,Segar,chandra.segar@example.com,Password101*,0165432107,Malaysia,"{Johor,Sabah}",FALSE,"{beach_tour,cultural_tour}",{Indian},Chandra enjoys cultural dives and beach relaxation.
+Azizah,Wan,azizah.wan@example.com,Password101*,0154321096,Malaysia,"{Kedah,Kelantan}",FALSE,"{food_tour,museum_tour}",{Malay},Azizah loves exploring museums and tasting local dishes.
+Mei,Chen,mei.chen@example.com,Password101*,0143210985,Malaysia,"{Kuching,Langkawi}",TRUE,"{beach_tour,city_tour}",{Chinese},Mei enjoys sunny beaches and urban exploration.
+Karthik,Devi,karthik.devi@example.com,Password101*,0132109874,Malaysia,"{Terengganu,Kuala Lumpur}",FALSE,"{historic_tour,food_tour}",{Tamil},Karthik is interested in historical sites and local street foods.
+Sophia,Miller,sophia.miller@example.com,Password101*,0165432109,United Kingdom,"{Kuala Lumpur,Penang}",FALSE,"{city_tour,shopping}",{English},Sophia loves the vibrant city life and shopping in Kuala Lumpur.
+Lucas,Martinez,lucas.m@example.com,Password101*,0154321098,Spain,"{Langkawi,Johor}",TRUE,"{beach_tour,food_tour}",{Spanish},Lucas enjoys the sunny beaches of Langkawi and the local cuisine.
+Emma,Wong,emma.wong@example.com,Password101*,0143210987,Hong Kong,"{Melaka,Kedah}",FALSE,"{historic_tour,cultural_tour}",{Cantonese},Emma is fascinated by Malaysia's rich history and diverse cultures.
+Noah,Schmidt,noah.s@example.com,Password101*,0132109876,Germany,"{Penang,Kuala Lumpur}",TRUE,"{city_tour,museum_tour}",{German},Noah loves exploring urban areas and has a keen interest in museums.
+Olivia,Rossi,olivia.rossi@example.com,Password101*,0121098765,Italy,"{Johor,Sabah}",FALSE,"{nature_tour,art_tour}",{Italian},Olivia is passionate about natural landscapes and the arts.
+Liam,Kim,liam.k@example.com,Password101*,0110987654,South Korea,"{Selangor,Sarawak}",TRUE,"{adventure_tour,cultural_tour}",{Korean},Liam seeks thrilling adventures and cultural immersions in Malaysia.
+Mia,Leblanc,mia.leblanc@example.com,Password101*,0198765433,France,"{Pahang,Perlis}",FALSE,"{food_tour,museum_tour}",{French},Mia enjoys the culinary arts and visits museums to learn about local history.
+Amelia,Dubois,amelia.d@example.com,Password101*,0187654322,France,"{Kuala Lumpur,Penang}",FALSE,"{shopping,city_tour}",{French},Amelia loves exploring shopping districts and cityscapes in Malaysia.
+Ethan,Lee,ethan.lee@example.com,Password101*,0176543211,Singapore,"{Melaka,Seremban}",TRUE,"{historic_tour,shopping}",{English},Ethan is intrigued by historical sites and enjoys shopping in Malaysia.
+Ava,Tan,ava.tan@example.com,Password101*,0165432108,Singapore,"{Johor Bahru,Kuching}",FALSE,"{nature_tour,art_tour}",{English},Ava explores natural landscapes and appreciates local art scenes in Malaysia.
+Benjamin,Smith,benjamin.smith@example.com,Password101*,0154321097,United Kingdom,"{Terengganu,Kota Kinabalu}",TRUE,"{adventure_tour,beach_tour}",{English},Benjamin loves adventures in nature and relaxing on beaches.
+Isabella,Chen,isabella.chen@example.com,Password101*,0143210986,China,"{Pahang,Perlis}",FALSE,"{food_tour,museum_tour}",{Mandarin},Isabella enjoys exploring local cuisines and historical museums.
+Liam,Watson,liam.watson@example.com,Password101*,0132109875,United Kingdom,"{Ipoh,Johor Bahru}",TRUE,"{city_tour,historic_tour}",{English},Liam is fascinated by urban architecture and local history.
+Mia,Wang,mia.wang@example.com,Password101*,0121098764,China,"{Kuala Lumpur,Penang}",FALSE,"{shopping,city_tour}",{Mandarin},Mia loves shopping and exploring vibrant city streets.
+Lucas,Morales,lucas.morales@example.com,Password101*,0110987653,Spain,"{Langkawi,Johor}",TRUE,"{beach_tour,food_tour}",{Spanish},Lucas relishes beachside relaxation and tasting local dishes.
+Emma,Thompson,emma.thompson@example.com,Password101*,0198765431,United Kingdom,"{Melaka,Kedah}",FALSE,"{historic_tour,cultural_tour}",{English},Emma is keen on exploring historical sites and learning about different cultures.
+Noah,Kim,noah.kim@example.com,Password101*,0187654320,South Korea,"{Penang,Kuala Lumpur}",TRUE,"{city_tour,museum_tour}",{Korean},Noah has a passion for modern cityscapes and historical museums.
+Olivia,Lopez,olivia.lopez@example.com,Password101*,0176543212,Spain,"{Johor,Sabah}",FALSE,"{nature_tour,art_tour}",{Spanish},Olivia enjoys immersing herself in natural settings and the local art scene.
+Liam,Nguyen,liam.nguyen@example.com,Password101*,0165432107,Vietnam,"{Selangor,Sarawak}",TRUE,"{adventure_tour,cultural_tour}",{Vietnamese},Liam seeks out thrilling cultural experiences and adventures in Malaysia.
+Mia,Johansson,mia.johansson@example.com,Password101*,0165432109,Sweden,"{Pahang,Perlis}",FALSE,"{food_tour,museum_tour}",{Swedish},Mia appreciates the local food scene and cultural heritage through museums.
+Amelia,Ng,amelia.ng@example.com,Password101*,0154321098,Malaysia,"{Kuala Lumpur,Penang}",FALSE,"{city_tour,shopping}",{English},Amelia loves the bustling city life and shopping in Kuala Lumpur.
+Ethan,Koh,ethan.koh@example.com,Password101*,0143210987,Malaysia,"{Melaka,Kedah}",TRUE,"{historic_tour,cultural_tour}",{English},Ethan is fascinated by Malaysia's rich history and diverse cultures.
+Ava,Chan,ava.chan@example.com,Password101*,0132109876,Malaysia,"{Johor,Sabah}",FALSE,"{nature_tour,art_tour}",{English},Ava is passionate about natural landscapes and the arts.
+Benjamin,Yap,benjamin.yap@example.com,Password101*,0121098765,Malaysia,"{Terengganu,Kota Kinabalu}",TRUE,"{adventure_tour,beach_tour}",{English},Benjamin loves adventures in nature and relaxing on beaches.
+Isabella,Singh,isabella.singh@example.com,Password101*,0110987654,Malaysia,"{Pahang,Perlis}",FALSE,"{food_tour,museum_tour}",{English},Isabella enjoys exploring local cuisines and historical museums.
+Liam,Tan,liam.tan@example.com,Password101*,0198765433,Malaysia,"{Ipoh,Johor Bahru}",TRUE,"{city_tour,historic_tour}",{English},Liam is fascinated by urban architecture and local history.
+Mia,Lee,mia.lee@example.com,Password101*,0187654322,Malaysia,"{Kuala Lumpur,Penang}",FALSE,"{shopping,city_tour}",{English},Mia loves shopping and exploring vibrant city streets.
+Lucas,Gonzalez,lucas.gonzalez@example.com,Password101*,0176543211,Spain,"{Langkawi,Johor}",TRUE,"{beach_tour,food_tour}",{Spanish},Lucas relishes beachside relaxation and tasting local dishes.
+Emma,Roberts,emma.roberts@example.com,Password101*,0165432108,United Kingdom,"{Melaka,Kedah}",FALSE,"{historic_tour,cultural_tour}",{English},Emma is keen on exploring historical sites and learning about different cultures.
+Noah,Park,noah.park@example.com,Password101*,0154321097,South Korea,"{Penang,Kuala Lumpur}",TRUE,"{city_tour,museum_tour}",{Korean},Noah has a passion for modern cityscapes and historical museums.
+Olivia,Garcia,olivia.garcia@example.com,Password101*,0143210986,Spain,"{Johor,Sabah}",FALSE,"{nature_tour,art_tour}",{Spanish},Olivia enjoys immersing herself in natural settings and the local art scene.
+Liam,Pham,liam.pham@example.com,Password101*,0132109875,Vietnam,"{Selangor,Sarawak}",TRUE,"{adventure_tour,cultural_tour}",{Vietnamese},Liam seeks out thrilling cultural experiences and adventures in Malaysia.
+Mia,Svensson,mia.svensson@example.com,Password101*,0121098764,Sweden,"{Pahang,Perlis}",FALSE,"{food_tour,museum_tour}",{Swedish},Mia appreciates the local food scene and cultural heritage through museums.
